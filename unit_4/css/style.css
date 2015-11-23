@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Carter+One);
 @import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,500,700,900);
 body {
 	background-color: white;
 }
@@ -8,4 +9,7 @@ h1 {
 }
 p {font-family: 'Lato', sans-serif;
 
+}
+h2,h3 {
+	font-family: 'Orbitron', sans serif;
 }
