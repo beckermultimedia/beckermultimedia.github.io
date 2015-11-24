@@ -4,12 +4,21 @@
 body {
 	background-color: white;
 }
-h1 {
+h2 {
 	font-family: 'Carter One', cursive;
 }
 p {font-family: 'Lato', sans-serif;
 
 }
-h2,h3 {
+li {
 	font-family: 'Orbitron', sans serif;
+}
+footer {
+	color: #dcdcdc
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding: 1em
+	text-align: center;
+	background: #000000;
 }
